@@ -15,16 +15,14 @@
 
 ** Lesson 2
 *** Deletion commands
-    | Command | Description                   |
-    |---------+-------------------------------|
-    | dw      | Delete a word                 |
-    | d$      | Delete to the end of the line |
-    | dd      | Delete a line                 |
-    | u       | Undo the last command         |
-    | U       | Undo the whole line           |
-    | Ctrl-R  | Undo the undo's               |
-
-*** Operator and motion
+    | Command | Description                                         |
+    |---------+-----------------------------------------------------|
+    | dw      | Delete the letters from the current word, until end |
+    | d$      | Delete to the end of the line                       |
+    | dd      | Delete a line                                       |
+    | u       | Undo the last command                               |
+    | U       | Undo the whole line                                 |
+    | Ctrl-R  | Undo the undo's                                     |
 
 ** Lesson 3
    | Command | Description                            |
@@ -43,27 +41,25 @@
     | G            | Goto the end of the file       |
     | {linenumer}G | Goto the specified line number |
 *** Search commad
-    | Command  | Description                                   |
-    |----------+-----------------------------------------------|
-    | //       | Forward seach                                 |
-    | ?        | Backward search                               |
-    | n        | Goto the next instance of the matched phrase  |
-    | N        | Goto to the next instance(opposite direction) |
-    | Ctrl + o | Goto tho where you seached initially          |
+    | Command  | Description                                                 |
+    |----------+-------------------------------------------------------------|
+    | //       | Forward seach                                               |
+    | ?        | Backward search                                             |
+    | n        | Goto the next instance of the matched phrase                |
+    | N        | Goto to the next instance(opposite direction)               |
 *** Matching Parentheses search and substitute command
-    | Command      | Description                              |
-    |--------------+------------------------------------------|
-    | %            | Find the matching ), ], }                |
-    | :s/old/new   | substitue the old word with the new word |
-    | :s/old/new/g | Globally make this change                |
+    | Command      | Description                                          |
+    |--------------+------------------------------------------------------|
+    | %            | Find the matching ), ], }                            |
+    | :s/old/new   | substitue the old word with the new word on the line |
+    | :s/old/new/g | Globally make this change on the line                |
 
 ** Lesson 5
    | Command            | Description                                               |
    |--------------------+-----------------------------------------------------------|
    | :! {shell command} | Execute shell command                                     |
-   | :w TEST            | Save the current file under the name 'TEST'               |
-   | :r TEST            | Retrieve the content of 'TEST' and paste below the cursor |
-
+   | :w TEST            | Write the current buffer to a file named 'TEST'           |
+   | :r TEST            | Insert content of file 'TEST' below the cursor            |
 ** Lesson 6
    | Command | Description                        |
    |---------+------------------------------------|
@@ -74,12 +70,11 @@
    | o       | Open a line below the cursor       |
    | O       | Open a line above the cursor       |
    | R       | Replace more than one character    |
-
 ** Lesson 7
 *** Getting help
-    | Command                   | Description                                           |
-    |---------------------------+-------------------------------------------------------|
-    | :help                     | Access help window                                    |
-    | :help {helpterm}          | Search for helpterm                                   |
-    | :help {helpterm} Ctrl + d | Show related helpterms and use TAB for autocompletion |
-    | Ctrl + w Ctrl + w         | Jump from one window to another                       |
+    | Command                   | Description                     |
+    |---------------------------+---------------------------------|
+    | :help                     | Access help window              |
+    | :help {helpterm}          | Search for helpterm             |
+    | :help {helpterm} Ctrl + d | Show related helpterms          |
+    | Ctrl + w Ctrl + w         | Jump from one window to another |
