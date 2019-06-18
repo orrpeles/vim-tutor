@@ -1,34 +1,34 @@
 
 # Table of Contents
 
-1.  [Vimtutor for the impatient](#org6db80fb)
-    1.  [Lesson 1](#orgfa02809)
-        1.  [Moving the cursor](#orgca060dd)
-    2.  [Lesson 2](#org44336aa)
-        1.  [Deletion commands](#orgc464b4e)
-    3.  [Lesson 3](#org4b1ea2c)
-    4.  [Lesson 4](#orgdede020)
-        1.  [Cursor location and File status](#orgc8092bc)
-        2.  [Search commad](#orgb2a8d95)
-        3.  [Matching Parentheses search and substitute command](#org478f1f4)
-    5.  [Lesson 5](#orgb5ff305)
-    6.  [Lesson 6](#org86415b7)
-    7.  [Lesson 7](#org462c44a)
-        1.  [Getting help](#orgae58d40)
+1.  [Vimtutor for the impatient](#orga832d3d)
+    1.  [Lesson 1](#orgd48e50f)
+        1.  [Moving the cursor](#orgd46dd93)
+    2.  [Lesson 2](#orgfc257ca)
+        1.  [Deletion commands](#orgaddb8a6)
+    3.  [Lesson 3](#org30390eb)
+    4.  [Lesson 4](#orgda9d67e)
+        1.  [Cursor location and File status](#orgdf21777)
+        2.  [Search commad](#orga2804ac)
+        3.  [Matching Parentheses search and substitute command](#org06e4e82)
+    5.  [Lesson 5](#orgd648d34)
+    6.  [Lesson 6](#orgc9c3810)
+    7.  [Lesson 7](#org1a9841c)
+        1.  [Getting help](#org18895cc)
 
 
 
-<a id="org6db80fb"></a>
+<a id="orga832d3d"></a>
 
 # Vimtutor for the impatient
 
 
-<a id="orgfa02809"></a>
+<a id="orgd48e50f"></a>
 
 ## Lesson 1
 
 
-<a id="orgca060dd"></a>
+<a id="orgd46dd93"></a>
 
 ### Moving the cursor
 
@@ -74,12 +74,12 @@
 </table>
 
 
-<a id="org44336aa"></a>
+<a id="orgfc257ca"></a>
 
 ## Lesson 2
 
 
-<a id="orgc464b4e"></a>
+<a id="orgaddb8a6"></a>
 
 ### Deletion commands
 
@@ -137,7 +137,7 @@
 </table>
 
 
-<a id="org4b1ea2c"></a>
+<a id="org30390eb"></a>
 
 ## Lesson 3
 
@@ -183,12 +183,12 @@
 </table>
 
 
-<a id="orgdede020"></a>
+<a id="orgda9d67e"></a>
 
 ## Lesson 4
 
 
-<a id="orgc8092bc"></a>
+<a id="orgdf21777"></a>
 
 ### Cursor location and File status
 
@@ -234,7 +234,7 @@
 </table>
 
 
-<a id="orgb2a8d95"></a>
+<a id="orga2804ac"></a>
 
 ### Search commad
 
@@ -280,7 +280,7 @@
 </table>
 
 
-<a id="org478f1f4"></a>
+<a id="org06e4e82"></a>
 
 ### Matching Parentheses search and substitute command
 
@@ -320,7 +320,7 @@
 </table>
 
 
-<a id="orgb5ff305"></a>
+<a id="orgd648d34"></a>
 
 ## Lesson 5
 
@@ -360,7 +360,7 @@
 </table>
 
 
-<a id="org86415b7"></a>
+<a id="orgc9c3810"></a>
 
 ## Lesson 6
 
@@ -424,12 +424,12 @@
 </table>
 
 
-<a id="org462c44a"></a>
+<a id="org1a9841c"></a>
 
 ## Lesson 7
 
 
-<a id="orgae58d40"></a>
+<a id="org18895cc"></a>
 
 ### Getting help
 
